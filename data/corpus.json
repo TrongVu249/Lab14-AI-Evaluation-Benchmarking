@@ -1,0 +1,42 @@
+{
+  "doc_001": {
+    "title": "Chính sách mật khẩu và bảo mật tài khoản",
+    "content": "Chính sách bảo mật yêu cầu tất cả người dùng phải đổi mật khẩu đăng nhập định kỳ mỗi 90 ngày. Mật khẩu mới phải có độ dài tối thiểu là 8 ký tự, bao gồm ít nhất một chữ cái viết hoa, một chữ cái viết thường, một chữ số và một ký tự đặc biệt (ví dụ: !, @, #, $). Không được sử dụng lại 5 mật khẩu gần nhất."
+  },
+  "doc_002": {
+    "title": "Quy trình khôi phục tài khoản bị khóa",
+    "content": "Tài khoản người dùng sẽ tự động bị khóa sau 5 lần nhập sai mật khẩu liên tiếp. Để khôi phục tài khoản, người dùng cần gửi email hỗ trợ tới support@company.com kèm theo ảnh chụp thẻ nhân viên hoặc ID nhân viên hợp lệ. Thời gian xử lý và mở khóa tài khoản tối đa là 24 giờ làm việc."
+  },
+  "doc_003": {
+    "title": "Quy định về thời gian làm việc",
+    "content": "Thời gian làm việc tiêu chuẩn của công ty là từ thứ Hai đến thứ Sáu, bắt đầu từ 8h00 sáng đến 17h00 chiều, nghỉ trưa từ 12h00 đến 13h00. Mọi yêu cầu hỗ trợ hoặc xử lý công việc ngoài giờ hành chính sẽ được tiếp nhận và xử lý vào ngày làm việc tiếp theo."
+  },
+  "doc_004": {
+    "title": "Chính sách bảo mật thông tin cá nhân (PII)",
+    "content": "Tuyệt đối không được ghi chép hoặc hiển thị thông tin nhận dạng cá nhân (PII) như số CCCD, số điện thoại cá nhân, thông tin thẻ tín dụng của khách hàng trong log hệ thống. Mọi dữ liệu logs phục vụ debug phải được ẩn danh hóa (masking/sanitization) hoặc thay thế bằng chuỗi băm (hash) trước khi ghi log."
+  },
+  "doc_005": {
+    "title": "Chính sách hoàn tiền dịch vụ khách hàng",
+    "content": "Khách hàng có quyền yêu cầu hoàn tiền dịch vụ trong vòng 7 ngày kể từ ngày thanh toán nếu phát sinh lỗi kỹ thuật từ phía hệ thống mà không thể khắc phục được trong 48 giờ. Yêu cầu hoàn tiền phải gửi kèm hóa đơn thanh toán hợp lệ và mô tả lỗi chi tiết gửi về bộ phận kế toán qua email billing@company.com."
+  },
+  "doc_006": {
+    "title": "Hướng dẫn đăng ký làm việc từ xa (WFA)",
+    "content": "Nhân viên muốn đăng ký làm việc từ xa (Work From Anywhere) cần gửi đề xuất trên hệ thống HR trước ít nhất 3 ngày làm việc. Việc đăng ký tối đa 2 ngày/tuần và phải được Quản lý trực tiếp phê duyệt dựa trên hiệu suất công việc của tháng gần nhất."
+  },
+  "doc_007": {
+    "title": "Quy định sử dụng thiết bị công ty",
+    "content": "Thiết bị laptop do công ty cấp phát chỉ được sử dụng cho mục đích công việc. Nghiêm cấm cài đặt các phần mềm không có bản quyền hoặc phần mềm độc hại. Nhân viên có trách nhiệm bảo quản thiết bị, mọi trường hợp mất mát do bất cẩn phải bồi thường 100% giá trị thiết bị theo khấu hao."
+  },
+  "doc_008": {
+    "title": "Chính sách công tác phí",
+    "content": "Chi phí đi lại và lưu trú khi đi công tác sẽ được thanh toán nếu có đầy đủ hóa đơn đỏ (VAT) hợp lệ. Hạn mức chi tiêu khách sạn tối đa là 1.200.000 VNĐ/đêm đối với các thành phố trực thuộc trung ương và 800.000 VNĐ/đêm đối với các tỉnh thành khác."
+  },
+  "doc_009": {
+    "title": "Quy định về việc tiếp nhận nhân sự mới",
+    "content": "Nhân sự mới trong ngày đầu tiên nhận việc cần có mặt tại văn phòng lúc 8h30 sáng tại phòng Nhân sự để hoàn thành thủ tục ký hợp đồng thử việc, nhận máy tính làm việc và tham gia buổi định hướng văn hóa doanh nghiệp (Onboarding) kéo dài 2 tiếng."
+  },
+  "doc_010": {
+    "title": "Chính sách nghỉ phép năm",
+    "content": "Mỗi nhân viên chính thức có 12 ngày phép năm hưởng nguyên lương. Số ngày phép chưa sử dụng hết trong năm sẽ được bảo lưu sang năm sau nhưng phải sử dụng trước ngày 31/3 của năm đó, sau thời hạn này số ngày phép bảo lưu sẽ tự động hết hạn."
+  }
+}

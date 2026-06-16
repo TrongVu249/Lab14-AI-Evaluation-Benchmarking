@@ -1,5 +1,12 @@
 import json
 import os
+import sys
+
+# Cấu hình UTF-8 cho terminal trên Windows để tránh lỗi UnicodeEncodeError khi print emoji
+if sys.platform.startswith("win"):
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 
 def validate_lab():
     print("🔍 Đang kiểm tra định dạng bài nộp...")
